@@ -119,4 +119,5 @@ H~2~O
 ### Superscript
 
 X^2^
+<rb>
 x<sub>2</sub>
